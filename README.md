@@ -1,5 +1,3 @@
-# OOPs_in_java
-
 # Object-Oriented Programming (OOP) in Java
 
 This folder contains foundational concepts of Java programming, specifically focusing on how Classes, Objects, and the Static keyword function within the language.
