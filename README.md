@@ -36,12 +36,11 @@ Open static.txt to see how shared memory works in Java.
 Java
 
 public class Student {
-    String name;          // Instance variable
-    static String school; // Static variable (shared)
-
-    // Constructor
-    public Student(String name) {
+    String name;                             // Instance variable
+    static String school;                   // Static variable (shared)
+    public Student(String name) {          // Constructor
         this.name = name;
     }
 }
+ 
 Happy Coding! ☕
